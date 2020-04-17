@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "pupu", "http://localhost:60396", "{4EDD30BD-5D3E-43DB-93DC-E557AFFD3B13}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60396"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Documents\My Web Sites\pupu\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60396\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60396"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Documents\My Web Sites\pupu\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60396\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\Documents\My Web Sites\pupu\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDD30BD-5D3E-43DB-93DC-E557AFFD3B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDD30BD-5D3E-43DB-93DC-E557AFFD3B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B591A8A1-FD70-4D2E-8F76-54974121D1B4}
+	EndGlobalSection
+EndGlobal
